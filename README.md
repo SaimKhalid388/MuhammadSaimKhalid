@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=2000&color=FF6B6B&center=true&vCenter=true&width=800&lines=🤖+Machine+Learning+Engineer;🚀+Generative+AI+Specialist;⚡+LLM+Orchestration+Expert;🔥+Building+Future+AI+Systems" />
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/saim-honey388?label=Followers&style=for-the-badge&color=FF6B6B" />
+  <img src="https://img.shields.io/github/followers/MuhammadSaimKhalid?label=Followers&style=for-the-badge&color=FF6B6B" />
   <img src="https://img.shields.io/badge/Focus-Generative%20AI-4ECDC4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🚀%20Status-Building%20the%20Future-45B7D1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/💼-Available%20for%20Hire-00D4AA?style=for-the-badge" />
@@ -61,7 +61,7 @@
 ### 🏆 **Achievements**
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=saim-honey388&theme=algolia&no-frame=true&row=2&column=3" />
+<img src="https://github-profile-trophy.vercel.app/?username=MuhammadSaimKhalid&theme=algolia&no-frame=true&row=2&column=3" />
 </div>
 
 ### 🌍 **Professional Info**
@@ -165,7 +165,7 @@
 - 🛠️ Custom tool integration
 - ⚡ Real-time decision making
 
-[![View Project](https://img.shields.io/badge/🚀%20Explore-FF6B6B?style=for-the-badge)](https://github.com/saim-honey388)
+[![View Project](https://img.shields.io/badge/🚀%20Explore-FF6B6B?style=for-the-badge)](https://github.com/MuhammadSaimKhalid)
 
 ---
 
@@ -180,7 +180,7 @@
 - 🎯 Multi-modal retrieval
 - 🔄 Continuous learning
 
-[![View Project](https://img.shields.io/badge/🚀%20Explore-4ECDC4?style=for-the-badge)](https://github.com/saim-honey388)
+[![View Project](https://img.shields.io/badge/🚀%20Explore-4ECDC4?style=for-the-badge)](https://github.com/MuhammadSaimKhalid)
 
 </td>
 <td width="50%">
@@ -196,7 +196,7 @@
 - 🚀 One-click deployment
 - 📊 Real-time analytics
 
-[![View Project](https://img.shields.io/badge/🚀%20Explore-45B7D1?style=for-the-badge)](https://github.com/saim-honey388)
+[![View Project](https://img.shields.io/badge/🚀%20Explore-45B7D1?style=for-the-badge)](https://github.com/MuhammadSaimKhalid)
 
 ---
 
@@ -211,7 +211,7 @@
 - 📈 Auto-scaling
 - 🔒 Enterprise security
 
-[![View Project](https://img.shields.io/badge/🚀%20Explore-00D4AA?style=for-the-badge)](https://github.com/saim-honey388)
+[![View Project](https://img.shields.io/badge/🚀%20Explore-00D4AA?style=for-the-badge)](https://github.com/MuhammadSaimKhalid)
 
 </td>
 </tr>
@@ -231,13 +231,13 @@
 
 <div align="center">
 
-<img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saim-honey388&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4"/>
+<img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MuhammadSaimKhalid&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4"/>
 
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=saim-honey388&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=45B7D1&currStreakLabel=FFFFFF"/>
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSaimKhalid&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=45B7D1&currStreakLabel=FFFFFF"/>
 
-<img width="350" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=saim-honey388&theme=radical&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF"/>
+<img width="350" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MuhammadSaimKhalid&theme=radical&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF"/>
 
-<img width="450" src="https://github-readme-activity-graph.vercel.app/graph?username=saim-honey388&theme=redical&hide_border=true&bg_color=0D1117&color=FFFFFF&line=FF6B6B&point=4ECDC4&area=true"/>
+<img width="450" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadSaimKhalid&theme=redical&hide_border=true&bg_color=0D1117&color=FFFFFF&line=FF6B6B&point=4ECDC4&area=true"/>
 
 </div>
 
@@ -252,13 +252,13 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saim-honey388&theme=radical" width="80%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadSaimKhalid&theme=radical" width="80%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saim-honey388&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=45B7D1&area=true&area_color=FF6B6B" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadSaimKhalid&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=45B7D1&area=true&area_color=FF6B6B" width="90%" />
 </div>
 
 <br>
@@ -399,4 +399,4 @@
   <p><em>🌟 Ready to revolutionize your AI projects? Let's connect and build the future together! 🚀</em></p>
 </div>
 
-</div> 
+</div>
